@@ -1,5 +1,5 @@
 # NineSquareDiary
-开发一个JavaWeb项目需要学习的技术很多，通过练习NineSquareDiary这个项目熟悉Java+JSP+MySql+Ajax+HTML5+JS+(DIV+CSS)等。开发环境是Eclipse与Tomcat v9.0<br>
+开发一个JavaWeb项目需要学习的技术很多，通过练习MyDiary这个项目熟悉Java+JSP+MySql+Ajax+HTML5+JS+(DIV+CSS)等。开发环境是Eclipse与Tomcat v9.0<br>
 
 ###先看主要部分截图：<br>
 ![screen1.png](http://upload-images.jianshu.io/upload_images/301102-92a0940ab2703897.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -169,7 +169,4 @@ public int login(User user) {
 	}
 	return flag;
 }
-```
-5.完整代码请点击[github地址](https://github.com/SoftProgramLX/NineSquareDiary)下载<br>
 
-QQ:2239344645    [我的github](https://github.com/SoftProgramLX?tab=repositories)<br>
